@@ -1,6 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: experience
 
 # This file represents a page section.
@@ -31,11 +32,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
