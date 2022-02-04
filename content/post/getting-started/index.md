@@ -30,15 +30,15 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- Johannes Haggen
 
 tags:
 - Academic
-- 开源
+
 
 categories:
-- Demo
-- 教程
+- Reserach
+
 ---
 
 ## Overview
