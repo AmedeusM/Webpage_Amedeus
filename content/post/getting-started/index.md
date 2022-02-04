@@ -37,7 +37,7 @@ tags:
 
 
 categories:
-- Reserach
+- Research
 
 ---
 
