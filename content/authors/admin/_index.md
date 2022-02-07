@@ -74,4 +74,4 @@ Welcome to my website! I am a doctoral student at Jönköping International Busi
 I am broadly interested in topics on household finance research with a focus on pensions and retirement.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
