@@ -9,7 +9,6 @@ title: "Persistence of Social Exclusion in Tanzania"
 authors:
 - admin
 
-text-align: justify
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
