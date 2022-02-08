@@ -1,23 +1,24 @@
 ---
-title: "An example conference paper2"
+title: "Keep Calm and Do Nothing - Trading Behavior of Swedish Retirement Investors during the COVID-19 Pandemic"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Johannes Hagen
+- Thomas Post
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Working Paper
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: How did investors in the Swedish Premium Pension System (PPS) react to the stock markets shock ignited in 2020 by the COVID-19 pandemic? The share of investors that traded more than doubled, and trades shifted capital from equity funds to low risk interest funds. In economic terms, however, trading activity stayed at very low levels—less than two percent of investors traded in March 2020 and there was no effect on pension withdrawals. Given the vast evidence on retail investors’ strongly increasing trading volume in crisis times, the reaction of PPS investors looks surprisingly smart, i.e., avoiding the many mistakes that investors incur when they try to outsmart the market. Potentially, the often-criticized choice architecture of the PPS that induces strong inertia provided positive side effects in times of a severe market shock.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: How did investors in the Swedish Premium Pension System (PPS) react to the stock markets shock ignited in 2020 by the COVID-19 pandemic? The share of investors that traded more than doubled, and trades shifted capital from equity funds to low risk interest funds.
 
 tags: []
 
@@ -44,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775036'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,24 +66,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

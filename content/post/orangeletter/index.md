@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper6"
+title: "Investors’ activity in response to information about their pensions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,11 +7,11 @@ title: "An example conference paper6"
 authors:
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Working Paper
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper uses individual-level data on fund choices in the Swedish Premium Pension to analyze how investors respond to information about their pension savings. The Swedish Pensions Agency mails an annual information letter, the Orange Envelope, to investors to provide them with tailored information about their public pension accounts. This paper examines the effect of pension communication in the Swedish Premium Pension System (PPS) by exploiting the staggered roll-out of these letters across different Swedish counties. Results show that the letters significantly increase investors trading activity in PPS. However, their economic relevance is limited because most savers are passive. The proportion of individuals who make changes to their funds in PPS because of the information letters is only about 3.57 percent. Moreover, the effect is more prominent among active investors with higher cognitive abilities. These findings suggest that providing communication about pensions may help increase individuals’ interest in pension-related decisions but not for less engaged investors..
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper uses individual-level data on fund choices in the Swedish Premium Pension to analyze how investors respond to information about their pension savings.
 
 tags: []
 
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -59,24 +59,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
