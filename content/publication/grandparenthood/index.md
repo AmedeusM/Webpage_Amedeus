@@ -7,12 +7,6 @@ title: "An example conference paper3"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""

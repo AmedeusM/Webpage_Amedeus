@@ -9,7 +9,7 @@ main:
     url: '#about'
     weight: 1
   - name: Research
-    url: publication/example/#index
+    url: 'publication/#index'
     weight: 2
   - name: Teaching
     url: project/#index
