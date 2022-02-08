@@ -9,11 +9,11 @@ authors:
 - Johannes Hagen
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In*Wowchemy Conference*
+publication: Revise and Resubmit in *Journal of Economic Behavior and Organization*
 publication_short: In *ICW*
 
 abstract: This paper studies one of the Swedish Premium Pension’s (PP) biggest pension scams — the so-called “Allra scandal”. While Allra investors are much more likely to work with mass-market advisors who steer them into underperforming high-fee funds, they are not socioeconomically different from other PP investors. Despite significant media exposure and several information letters from the Swedish Pensions Agency to the affected investors, we find that only one-third opted to divest from Allra within five months of the first media reports on Allra's alleged fraud. Our results show that broad layers of the population may be victimized by investment fraud, that pension plans may be characterized by investor inertia even under extreme circumstances such as fraud, and that information interventions fail to nudge a majority of investors to take that right action.
@@ -64,14 +64,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 
 ---
