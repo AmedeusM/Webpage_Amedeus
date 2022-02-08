@@ -1,7 +1,7 @@
 ---
 
 
-title: "An example conference paper1"
+title: "Persistence of Social Exclusion in Tanzania"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ title: "An example conference paper1"
 authors:
 - admin
 
-
+text-align: justify
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -21,16 +21,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Efficiency, Equity and Well-Being in Selected African Countries*
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Social exclusion can be defined as a practice where individuals are fully or partially excluded from social, economic and cultural networks. Hence, the concept of social exclusion is multidimensional and associated with economic, social, political and cultural aspects. This paper analyses the causes of social exclusion. It specifically explores the reasons why an individual experiences social exclusion today on the assumption that this may lead to similar experiences in the future. Literature suggests that there are two underlying processes that lead to the persistence of social exclusion. One, individuals are heterogeneous in terms of observed and unobserved adverse characteristics which are important for someone to experience social exclusion over time. Second, individuals may experience social exclusion due to state dependency, that is, the experience of social exclusion in one period may itself incite the chances of experiencing it in subsequent periods. Differentiating the two processes is important because policy options for addressing the two social exclusion processes are also different. Using data from the Tanzania National Panel Survey (TZNPS), this paper provides new evidence on the state of social exclusion in Tanzania.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper analyses the causes of social exclusion. It specifically explores the reasons why an individual experiences social exclusion today on the assumption that this may lead to similar experiences in the future.
 
 tags: []
 
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-11419-0_5'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,24 +63,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

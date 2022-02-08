@@ -1,6 +1,6 @@
 ---
 
-title: "An example conference paper3"
+title: "Grand-parenthood and Retirement"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,11 +8,11 @@ title: "An example conference paper3"
 authors:
 - admin
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using Swedish administrative data and an event-study design, this paper studies the effect of grand-parenthood on workers’ labor supply around the retirement age. The variations in time are leveraged around the births of the first grandchildren to identify the impact of grand-parenthood on retirement behavior. The results show a significant increase in the retirement probability for grandmothers and grandfathers, with no significant differences between them. The effects of grandchildren on labor supply become larger over time, where retirement behavior increases up to about 21 percent and 24 percent for grandfathers and grandmothers. The incremental effects are larger among grandparents in the upper half of the earnings distribution. In addition, results show that the arrival of grandchildren significantly increases the likelihood of offspring moving closer to their parents. The findings suggest that grandchildren make grandparents less elastic to financial incentives and other regulations that promote longer working lives even in a country with generous family policies such as Sweden.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using Swedish administrative data and an event-study design, this paper studies the effect of grand-parenthood on workers’ labor supply around the retirement age. The variations in time are leveraged around the births of the first grandchildren to identify the impact of grand-parenthood on retirement behavior.
 
 tags: []
 
