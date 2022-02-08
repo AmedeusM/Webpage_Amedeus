@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper7"
+title: "Financial Fraud and Individual Investment Behavior"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Johannes Hagen
 
 # Author notes (optional)
 author_notes:
@@ -26,13 +26,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In*Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: This paper studies one of the Swedish Premium Pension’s (PP) biggest pension scams — the so-called “Allra scandal”. While Allra investors are much more likely to work with mass-market advisors who steer them into underperforming high-fee funds, they are not socioeconomically different from other PP investors. Despite significant media exposure and several information letters from the Swedish Pensions Agency to the affected investors, we find that only one-third opted to divest from Allra within five months of the first media reports on Allra's alleged fraud. Our results show that broad layers of the population may be victimized by investment fraud, that pension plans may be characterized by investor inertia even under extreme circumstances such as fraud, and that information interventions fail to nudge a majority of investors to take that right action.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper studies one of the Swedish Premium Pension’s (PP) biggest pension scams — the so-called “Allra scandal”. Using individual-level data on mutual fund choices, we track the portfolio changes of the approximately 120,000 retirement investors who had funds in Allra at the time whem fraud was discovered.
 
 tags: []
 
@@ -56,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
