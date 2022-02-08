@@ -1,5 +1,14 @@
 ---
-title: "An example conference paper"
+active: true
+widget: pages
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 4
+
+title: "An example conference paper4"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
