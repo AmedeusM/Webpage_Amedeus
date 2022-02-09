@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - wip
     tag: ''
     category: ''
     publication_type: ''
