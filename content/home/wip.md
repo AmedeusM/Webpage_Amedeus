@@ -25,10 +25,10 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "3"
+    publication_type: "1"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 
 design:
   # Choose a view for the listings:
@@ -36,5 +36,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
