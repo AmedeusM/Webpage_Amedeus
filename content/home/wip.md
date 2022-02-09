@@ -1,15 +1,11 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
-<<<<<<< HEAD
-<<<<<<< HEAD
+active: true
+
 widget: featured
-=======
-=======
->>>>>>> parent of ec90a3b (added pubs in pubs section)
+
 widget: pages
->>>>>>> parent of ec90a3b (added pubs in pubs section)
 
 # This file represents a page section.
 headless: true
