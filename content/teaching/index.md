@@ -50,7 +50,7 @@ url_video: ""
 - Spring 2018
     - Research Methods in Informatics (Approx. 50 students)
 - Autumn 2021
-  - Applied econ (Guest lecture- 2 hours)
+  - Applied Econometrics (Guest lecture- 2 hours)
 - Spring 2022
   - Development Economics (Approx. 80 students)
   - International Macroeconomic and Finance (Approx. 150 students)

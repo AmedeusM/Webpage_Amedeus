@@ -71,7 +71,7 @@ highlight_name: true
 ---
 
 Welcome to my website! I am a doctoral student at Jönköping International Business School (JIBS) in Jönköping University.
-I am broadly interested in topics on household finance research with a focus on pensions and retirement.
+I am broadly interested in topics on behavioral household finance with a focus on pensions and retirement.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
