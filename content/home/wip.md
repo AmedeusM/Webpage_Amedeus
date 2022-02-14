@@ -11,7 +11,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 70
 
 title: Working Papers
 subtitle: ""
