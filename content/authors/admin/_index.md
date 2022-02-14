@@ -71,7 +71,8 @@ highlight_name: true
 ---
 
 Welcome to my website! I am a doctoral student at Jönköping International Business School (JIBS) in Jönköping University.
+I am affiliated with the Centre for Entrepreneurship and Spatial Studies ([CEnSE](https://ju.se/center/cense.html)).
 I am broadly interested in topics on behavioral household finance with a focus on pensions and retirement.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
