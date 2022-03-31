@@ -24,7 +24,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Revise and Resubmit in *Review of Behavioral Finance*
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775036'
+url_pdf: 'https://www.emerald.com/insight/content/doi/10.1108/RBF-09-2021-0183/full/html'
 url_code: ''
 url_dataset: ''
 url_poster: ''
