@@ -1,5 +1,5 @@
 ---
-title: "Keep Calm and Do Nothing - Trading Behavior of Swedish Retirement Investors during the COVID-19 Pandemic"
+title: Trading Behavior of Swedish Retirement Investors during the COVID-19 Pandemic
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,7 +27,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and Resubmit in *Review of Behavioral Finance*
+publication: Review of Behavioral Finance
 #publication_short: In *ICW*
 
 abstract: How did investors in the Swedish Premium Pension System (PPS) react to the stock markets shock ignited in 2020 by the COVID-19 pandemic? The share of investors that traded more than doubled, and trades shifted capital from equity funds to low risk interest funds. In economic terms, however, trading activity stayed at very low levels—less than two percent of investors traded in March 2020 and there was no effect on pension withdrawals. Given the vast evidence on retail investors’ strongly increasing trading volume in crisis times, the reaction of PPS investors looks surprisingly smart, i.e., avoiding the many mistakes that investors incur when they try to outsmart the market. Potentially, the often-criticized choice architecture of the PPS that induces strong inertia provided positive side effects in times of a severe market shock.
