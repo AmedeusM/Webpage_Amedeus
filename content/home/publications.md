@@ -20,7 +20,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: '6'
+    publication_type: '2'
     author: ''
     exclude_featured: false
     exclude_future: false

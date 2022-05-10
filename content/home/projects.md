@@ -1,26 +1,26 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
+active: true
 widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 70
 
-title: Teaching
+title: Book Chapters
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - project
+      - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '6'
     author: ''
     exclude_featured: false
     exclude_future: false
