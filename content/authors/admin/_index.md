@@ -6,7 +6,7 @@ title: Amedeus Malisa
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Lecturer in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Microeconomics
+  - course: PhD in Economics
     institution: Jönköping International Business School (JIBS)
-    year: Ongoing
+    year: 2022
   - course: MSc in Economics
     institution: Jönköping International Business School (JIBS)
     year: 2016
@@ -70,9 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website! I am a doctoral student at Jönköping International Business School (JIBS) in Jönköping University.
+Welcome to my website! I am a recent PhD graduate from Jönköping International Business School (JIBS) at Jönköping University.
 I am affiliated with the Centre for Entrepreneurship and Spatial Studies ([CEnSE](https://ju.se/center/cense.html)).
-I am broadly interested in  behavioral household finance with a focus on pensions and retirement.
+My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
