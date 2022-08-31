@@ -71,7 +71,7 @@ highlight_name: true
 ---
 
 Welcome to my website! I am a recent PhD graduate from Jönköping International Business School (JIBS) at Jönköping University.
-I am affiliated with the Centre for Entrepreneurship and Spatial Studies ([CEnSE](https://ju.se/center/cense.html)).
+I am affiliated with the Centre for Entrepreneurship and Spatial Economics ([CEnSE](https://ju.se/center/cense.html)).
 My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
 
 
