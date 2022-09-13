@@ -73,6 +73,10 @@ highlight_name: true
 Welcome to my website! I am a recent PhD graduate from Jönköping International Business School (JIBS) at Jönköping University.
 I am affiliated with the Centre for Entrepreneurship and Spatial Economics ([CEnSE](https://ju.se/center/cense.html)).
 My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
+In particular, in my thesis I explore how individuals react to various events and information regarding pension savings and retirement.
+
+
+I am available for interviews during the 2022-2023 job market.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
