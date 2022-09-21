@@ -19,8 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
 - Public Economics
-- Development Economics
 - Applied Microeconomics
+- Development Economics
 
 # Education to show in About widget
 education:
