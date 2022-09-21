@@ -23,11 +23,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and Resubmit in *Journal of Economic Behavior and Organization*
-publication_short: In *ICW*
+publication: Journal of Economic Behavior and Organization
+#publication_short: In *ICW*
 
 abstract: This paper studies one of the Swedish Premium Pension’s (PP) biggest pension scams — the so-called “Allra scandal”. While Allra investors are much more likely to work with mass-market advisors who steer them into underperforming high-fee funds, they are not socioeconomically different from other PP investors. Despite significant media exposure and several information letters from the Swedish Pensions Agency to the affected investors, we find that only one-third opted to divest from Allra within five months of the first media reports on Allra's alleged fraud. Our results show that broad layers of the population may be victimized by investment fraud, that pension plans may be characterized by investor inertia even under extreme circumstances such as fraud, and that information interventions fail to nudge a majority of investors to take that right action.
 # Summary. An optional shortened abstract.
