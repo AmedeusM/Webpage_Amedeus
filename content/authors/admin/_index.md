@@ -75,8 +75,6 @@ I am affiliated with the Centre for Entrepreneurship and Spatial Economics ([CEn
 My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
 In particular, in my thesis I explore how individuals react to various events and information regarding pension savings and retirement.
 
-
 I am available for interviews during the 2022-2023 job market.
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
