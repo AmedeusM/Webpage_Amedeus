@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Economic Behavior and Organization
+publication: Accepted: Journal of Economic Behaviour and Organization
 #publication_short: In *ICW*
 
 abstract: We show that, after the revelation of financial fraud in a major pension fund manager, two-thirds of affected investors fail to divest. Inert investors are on average younger, of lower SES and more influenced by default options. The majority of those who divest move their money to the only state-run option on the fund menu. The revelation of fraud also induces a small movement of investors from non-fraudulent private investment funds to the state alternative. We further show that most fraud victims end up in underperforming high-fee funds through their prior affiliation with a subscription-based financial advisor. Our analysis is based on the remarkable events surrounding the expulsion of Allra from the Swedish Premium Pension, and administrative, individual-level data on mutual fund choices and background characteristics. Our results illustrate that fraudulent fund managers may exploit widespread consumer biases in choice-oriented pension plans, and that information interventions by the government are important but far from fully effective in nudging victimized investors to take the right action. Pension plans may be characterized by investor inertia even under extreme circumstances such as fraud.
