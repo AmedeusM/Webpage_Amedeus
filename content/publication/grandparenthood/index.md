@@ -1,7 +1,7 @@
 ---
 
-title: "Grand-parenthood and Retirement -JMP : \
-Revise and Resubmit - Labour Economics"
+title: "Grand-parenthood and Retirement -JMP"
+subtitle: "R & R"
 
 
 # Authors
