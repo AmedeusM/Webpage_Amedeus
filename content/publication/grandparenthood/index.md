@@ -1,6 +1,6 @@
 ---
 
-title: "Grand-parenthood and Retirement -JMP :  //
+title: "Grand-parenthood and Retirement -JMP : \
 Revise and Resubmit - Labour Economics"
 
 
