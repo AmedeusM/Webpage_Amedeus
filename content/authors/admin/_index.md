@@ -73,7 +73,7 @@ highlight_name: true
 Welcome to my website! I am a recent PhD graduate from Jönköping International Business School (JIBS) at Jönköping University.
 
 My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
-In particular, my thesis explores how individuals react to various events and information regarding pension savings and retirement. My papers have been published in \textit{Journal of Economic Behaviour and Organisation} and \textit{Review of Behavioral Finance.}
+In particular, my thesis explores how individuals react to various events and information regarding pension savings and retirement. My papers have been published in ***Journal of Economic Behaviour and Organisation*** and ***Review of Behavioral Finance.***
 
 I am in the 2022 - 2023 job market.
 
