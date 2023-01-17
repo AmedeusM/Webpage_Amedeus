@@ -1,7 +1,6 @@
 ---
 
 title: "Grand-parenthood and Retirement -JMP"
-subtitle: "R & R"
 
 
 # Authors
