@@ -20,28 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: amedeus.malisa@ju.se
+email: amedeus.malisa@gmail.se
 phone: +46 736291352
 address:
-  street: Gjuterigatan 5
+  street: Sagogatan 9E
   city: Jönköping
 # region: CA
-  postcode: '551 11'
+  postcode: '554 49'
   country: Sweden
 #  country_code: US
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
-directions: Rum B5023
+#directions: Rum B5023
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 #contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/malixmalisa'
   #- icon: skype
   #  icon_pack: fab
   #  name: Skype Me

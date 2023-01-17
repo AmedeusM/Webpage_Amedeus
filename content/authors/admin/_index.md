@@ -6,12 +6,12 @@ title: Amedeus Malisa
 superuser: true
 
 # Role/position/tagline
-role: Lecturer in Economics
+role: Visiting researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Jönköping International Business School (JIBS)
-  url: https://ju.se/en/about-us/jonkoping-international-business-school.html/
+- name: School of Business and Economics - Maastricht University 
+  url: https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
