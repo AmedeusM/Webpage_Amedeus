@@ -6,12 +6,12 @@ title: Amedeus Malisa
 superuser: true
 
 # Role/position/tagline
-role: Visiting researcher
+role: STC Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Business and Economics - Maastricht University 
-  url: https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics
+- name: The World Bank Group
+  url: https://www.worldbank.org
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website! I am a recent PhD graduate from Jönköping International Business School (JIBS) at Jönköping University.
+Welcome to my website!
 
 My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
 In particular, my thesis explores how individuals react to various events and information regarding pension savings and retirement. My papers have been published in ***Journal of Economic Behaviour and Organisation*** and ***Review of Behavioral Finance.***
