@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: amedeusmalisa@gmail.com
-phone: +46 736291352
+email: amalisa@worldbank.org
+phone: +255 744540482
 address:
-  street: Sagogatan 9E
-  city: Jönköping
+  street: 50 Mirambo Street, P.O. Box 2054 
+  city: Dar es Salaam
 # region: CA
-  postcode: '554 49'
-  country: Sweden
+  postcode: "Tanzania"
+  country: Tanzania
 #  country_code: US
 #coordinates:
 #  latitude: '37.4275'
@@ -95,7 +95,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true

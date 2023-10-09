@@ -6,11 +6,11 @@ title: Amedeus Malisa
 superuser: true
 
 # Role/position/tagline
-role: STC Consultant
+role: Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The World Bank Group
+- name: The World Bank
   url: https://www.worldbank.org
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,11 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website!
+Welcome! I work as a Consultant at the World Bank. I am currently involved in the Gender Equality and Tax Reform workstream, part of the Global Tax Program, which examines the the gender dimensions of tax policy and reforms. I received my PhD from Jönköping International Business School (JIBS) at Jönköping University in Sweden in 2022. My primary research interests include behavioural household finance, labour and development economics.
+ My papers have been published in ***Journal of Economic Behaviour and Organisation*** and ***Review of Behavioral Finance.***
 
-My research interests include behavioural household finance focusing on pensions and retirement, labour economics and development economics.
-In particular, my thesis explores how individuals react to various events and information regarding pension savings and retirement. My papers have been published in ***Journal of Economic Behaviour and Organisation*** and ***Review of Behavioral Finance.***
-
-I am in the 2022 - 2023 job market.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

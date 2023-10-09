@@ -1,14 +1,14 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
+active: true
 widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 90
 
 title: Work in Progress
 subtitle:
@@ -17,10 +17,10 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - wip
-    tag: ''
-    category: ''
-    publication_type: ''
+      - post
+    tag: false
+    category: false
+    publication_type: false
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -30,9 +30,9 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  #order: desc
 #design:
   # Choose a view for the listings:
-  #view: compact
+  view: "2"
   #columns: '2'
 ---
