@@ -22,7 +22,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and Resubmit - Labour Economics
+publication: Forthcoming - Labour Economics
 #publication_short: In *ICW*
 
 abstract: Using Swedish administrative data and an event-study design, this paper studies the effect of grand-parenthood on workers’ labor supply around the retirement age. The variations in time are leveraged around the births of the first grandchildren to identify the impact of grand-parenthood on retirement behavior. The results show a significant increase in the retirement probability for grandmothers and grandfathers, with no significant differences between them. The incremental effects are larger among grandparents in the upper half of the earnings distribution. In addition, results show that the arrival of grandchildren significantly increases the likelihood of offspring moving closer to their parents. The findings suggest that grandchildren make grandparents less elastic to financial incentives and other regulations that promote longer working lives even in a country with generous family policies such as Sweden.
