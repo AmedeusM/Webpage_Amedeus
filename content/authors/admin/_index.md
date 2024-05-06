@@ -6,7 +6,7 @@ title: Amedeus Malisa
 superuser: true
 
 # Role/position/tagline
-role: Consultant
+role: Economic consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,6 @@ organizations:
 # Interests to show in About widget
 interests:
 - Public Economics
-- Applied Microeconomics
 - Development Economics
 
 # Education to show in About widget
@@ -70,8 +69,8 @@ email: ""
 highlight_name: true
 ---
 
-Welcome! I work as a Consultant at the World Bank. I am currently involved in the Gender Equality and Tax Reform workstream, part of the Global Tax Program, which examines the the gender dimensions of tax policy and reforms. I received my PhD from Jönköping International Business School (JIBS) at Jönköping University in Sweden in 2022. My primary research interests include behavioural household finance, labour and development economics.
- My papers have been published in ***Journal of Economic Behaviour and Organisation*** and ***Review of Behavioral Finance.***
+Welcome! I work as an economic consultant at the World Bank. I received my PhD from Jönköping International Business School (JIBS) at Jönköping University. My research areas are Public and Development economics. I am currently engaged in research aiming to strengthen tax institutions and mobilise revenues fairly and efficiently in low-income countries.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

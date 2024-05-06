@@ -1,6 +1,6 @@
 ---
 
-title: "Grand-parenthood and Retirement (JMP) - Forthcoming - Labour Economics"
+title: "Grand-parenthood and Retirement"
 
 
 # Authors
@@ -9,8 +9,8 @@ title: "Grand-parenthood and Retirement (JMP) - Forthcoming - Labour Economics"
 authors:
 - admin
 
-date: "2022-01-01T00:00:00Z"
-doi: ""
+date: "2024-04-30"
+doi: "https://www.sciencedirect.com/science/article/pii/S0927537124000423?via%3Dihub"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: [2]
 
 # Publication name and optional abbreviated publication name.
-publication: Forthcoming - Labour Economics
+publication: Labour Economics
 #publication_short: In *ICW*
 
 abstract: This paper uses Swedish administrative data to examine the impact of grandparenthood on retirement behaviour. For causal identification, I exploit conditionally random variation in the births of first grandchildren using an event study design. The results show a significant increase in the retirement probability for grandmothers and grandfathers when the first grandchild is born, with no significant differences between them. The effects of the arrival of the grandchild on retirement increase over time after the grandchild is born. The incremental effects are larger among grandparents in the upper half of the earnings distribution than among their counterparts. The findings suggest that grandparenthood makes grandfathers and grandmothers less elastic to financial incentives and other regulations that also promote longer working lives also in a country with generous family policies such as Sweden.
@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4225814'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0927537124000423?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
